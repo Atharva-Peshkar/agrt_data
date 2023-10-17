@@ -1,0 +1,62 @@
+{
+    "000": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "001": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "002": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "003": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "004": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "005": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "006": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "007": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "008": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    },
+    "009": {
+        "face_keypoints_2d": [],
+        "hand_left_keypoints_2d": [],
+        "hand_right_keypoints_2d": [],
+        "pose_keypoints_2d": []
+    }
+}
